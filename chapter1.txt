@@ -10,10 +10,7 @@
   500  git push --set-upstream origin master
   501  git init
   502  git add .
-  503  git commit -m "Initial commit"
-  504  clear
-  505  git push
-  506  git remote add origin https://github.com/cloudtac/Story.git
+
   507  git push origin
   508  git push --set-upstream origin master
   509  clear
