@@ -5,8 +5,7 @@
   495  git status
   496  git branch --unset-upstream
   497  git status
-  498  git log
-  499  git push
+hudsonmbgong hudson mbong  499  git push
   500  git push --set-upstream origin master
   501  git init
   502  git add .
